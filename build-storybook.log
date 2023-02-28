@@ -22,397 +22,313 @@ Node.js version : v16.15.1
 
 Operating system : Windows 10
 
-[13:45:21] No configuration file found, switching to CLI flags.
-[13:45:21] Using tsconfig file : C:\Projects\Learn\storybook\taskbox\tsconfig.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.browserslistrc
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.editorconfig
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.gitignore
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\angular.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\build-storybook.log
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\documentation.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\jest.config.js
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\LICENSE
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\package-lock.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\package.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\README.md
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.app.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.spec.json
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\main.js
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\preview.js
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\tsconfig.json
-[13:45:21] Ignoring       : C:\Projects\Learn\storybook\taskbox\.storybook\typings.d.ts
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\setup.ts
-[13:45:21] Including      : C:\Projects\Learn\storybook\taskbox\src\favicon.ico
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\index.html
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\main.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\polyfills.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\styles.css
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\styleMock.js
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\globalMocks.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\fileMock.js
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.css
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.html
-[13:45:22] Ignoring       : C:\Projects\Learn\storybook\taskbox\src\app\app.component.spec.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\environments\environment.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\.gitkeep
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\environments\environment.prod.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.module.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\header.component.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\button.css
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Button.stories.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Header.stories.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\header.css
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Introduction.stories.mdx
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\page.component.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\page.css
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Page.stories.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\User.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\button.component.ts
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.eot
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.woff
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.eot
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\code-brackets.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.ttf
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.woff
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\colors.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\comments.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\direction.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\flow.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\plugin.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\repo.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\stackalt.svg
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\04ad7faeff192b2984d1fd02cdbd8573.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0590dc6120d98586156def5889ea5d63.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\07f410cc756de152a50ee2d43591d1d0.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0de3374ab41d4593fc2d0a63e306c3ca.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0ece49c1d94718822bd8a60b85b7e216.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0f071674e02f702e76788b936234e6e1.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1021d3aa59ea798442f00b196faee8ec.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\15ce3de7b2535d52b91f4f0a33042784.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2ae8af5b0e852edb65c481603f88e272.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2bbebbc24cdfaed38c0320cd0d6ce184.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2b1bb671ad1fb327ed08fb6f65e16d8b.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\36e0707676b7e606b67c9a8e6dab064c.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3a5816efc4959328aa5b0b20fde336f1.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\37295287d63c80fe744f8566491e33da.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3bc67f82a9574df41703c7917590b918.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3f19826fe1031b72409beb9a8bc509a4.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3c0e657e564018a9eaaa066686b6a7c0.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\418ed47955b97d5d600537bde5b65780.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\465faeeae05dc71b4ad7fd32df2baa59.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\53d6d53c34115fd7957b6ce48bef64cc.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\50063e63d1fbdcc680903674b8739591.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\46e9265ad48353d2887934c68ae1d5bc.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\540241d50e464ac85a1551e318a73487.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\581ab28d18974e6a830f41e2a98005df.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\58e77762aa52eec3fded8bd9fdece732.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5b688f449e7b22b1955f6148ac20d984.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5b2dfcdcd87970d0812f4ca28f5f3361.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5ccd7ca7be2357346616afe541709c13.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\67a67cc3094bfdb1ab65dbf190078a8a.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5fd0b324f090f49d4c4641b0c53aec4a.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\690a947edb1ea28e5e21a617dee41386.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6f73626858bfa34a843d384b73337a6b.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\723f42995a628ac7e7cec7dc2b996332.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5bf3899cf2f4652c20a65a422d29c782.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\726bc32e99c9c3c49b4fca2c7a306db7.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6aad39babb5cdc3cee9ef719b21bda78.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7406d700b6a778c78053bebe02356143.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6eefa38fa1383db899605c7c54f6d516.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\74e89855278d92ca6976dce92e607659.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\76d6a9ea389994cd355ad1b1218ed665.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e110023d426ae6ed33d17f50d48f11f.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e1dab7bd6f483eee5b0d8f330980e12.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e252d35cc8c2a0779ed40f10a90f595.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7f11b3ccca942622f992be0d2a6c94f4.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7f7efdb85964ab6846081209f09de42f.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\80afec51381912d37ffdf4f89880f346.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\821cd54a3ce65ec981c9a7b269d7eb79.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\83f4a7313de02c19e71a021c680d1227.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\82f3ed2e830ebf999446212dfbd67aff.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\86fb95d115b1a2a152988bf42054bd3f.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\89ee8ced9f953d626aff635071f8574c.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8db444c36cef39e2bc650164987ed0a4.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\86032e117a3c4a8e3d8e1bf8a36efa47.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8e9a50c5282fca8595e8a2e9f1a68995.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9376821805f3e2b2ada2a792fbde0842.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\959d2a380ea09557842b91904f1be938.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\99e14d411cad5b45294154be5bbd14dd.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9a00f6d392dd963e467db671261a1757.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9aa071aee32a9f8662b7d3819dd2ec78.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9be6831791f009c8db6bbc313df657aa.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9d9d0bd76d9265ffe55b584f7ed92fe2.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a1b3fff1f593c5426a6ccbd17b9bf4cd.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9a3944ccc9049ba8c8fb3b348a9aef51.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a276ccd5af8aadc676f2f3843f5ea286.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a6c0ab600aea07867afd176d8045b2a4.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a72b3833e167edf2f135e2d92f7efcb8.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a8569d70fab9034a79a711ca0e346c00.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ab8223190971d232b87f18712c6efef9.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ae1fb2e5a45214df6bbbb617a47265e3.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ac93e32cbda166186f379bf639cc0fb6.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b168d989569a9947a7fc72b0e5381061.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bb078993008f8d58d1b37456bbf1ca72.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdd65ad5ceb5bf534a4d8eb707e17f34.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ca7d4aff3b9a518406a80f34fa4d7721.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cad59d61730027a12fdc3f608ed66b96.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cb0e15a1c37a2b21b1f4c3a0cc22e51e.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c285712637bcf79f023bb94e2dbac8ab.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cec0666cfd5f66bee2b0a10a0c0c6acd.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdfd7b4810b6cb40cf299461d9063d79.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d30c793081be0d1a6f024eae7a6f28a0.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d83877988c2f383bc7f08f30d964195e.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e38749e8fa3c0a4a3990cbd94aec82e0.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e50e14b908fea39ebd231e10b84087aa.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb177d57b0e8be3477a4f5850b15d940.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db7eb6ab23500049320109f5b7eab0dd.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f109a997227f899bd6b1c5c8bb2b8aa7.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e63ef3d3ed1ad27722ef0ce826cb3634.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f3af3ed4627df263bef17622bfb63a75.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f980e59d1a0c771affcd2089bba89c21.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f86c919bcf1d15ab1521b0966fa59a4e.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6d324db3a1821022062a1c685fa1194.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d3d455c47b603e5cd2487402b34ac906.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fc9739c99052314e38dbe770dbb05e2d.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fdad77adaca505fe4bd2a76f92c98ced.json
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\angular-webpack\226c22752caaa0e336b79ab82c16815c9aa0e171\0.pack
-[13:45:22] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\angular-webpack\226c22752caaa0e336b79ab82c16815c9aa0e171\index.pack
-[13:45:22] Searching package.json file
-[13:45:22] package.json file found
-[13:45:22] Processing package.json dependencies
-[13:45:22] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
-[13:45:22] README.md file found
-[13:45:22] Error during C:\Projects\Learn\storybook\taskbox\CHANGELOG read
-[13:45:22] Continuing without CHANGELOG.md file
-[13:45:22] Error during C:\Projects\Learn\storybook\taskbox\CONTRIBUTING read
-[13:45:22] Continuing without CONTRIBUTING.md file
-[13:45:22] LICENSE.md file found
-[13:45:22] Error during C:\Projects\Learn\storybook\taskbox\TODO read
-[13:45:22] Continuing without TODO.md file
-[13:45:22] Get dependencies data
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/jest-config/setup.ts
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/main.ts
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/polyfills.ts
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/jest-config/__mocks__/globalMocks.ts
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/app/app.component.ts
-[13:45:22] found          : AppComponent
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/environments/environment.ts
-[13:45:22] found          : environment
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/environments/environment.prod.ts
-[13:45:22] found          : environment
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/app/app.module.ts
-[13:45:22] found          : AppModule
-[13:45:22]                : - imports:
-[13:45:22]                : 	- BrowserModule
-[13:45:22]                : - declarations:
-[13:45:22]                : 	- AppComponent
-[13:45:22]                : - bootstrap:
-[13:45:22]                : 	- AppComponent
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/header.component.ts
-[13:45:22] found          : HeaderComponent
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Button.stories.ts
-[13:45:22] found          : Template
-[13:45:22] found          : Primary
-[13:45:22] found          : Secondary
-[13:45:22] found          : Large
-[13:45:22] found          : Small
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Header.stories.ts
-[13:45:22] found          : Template
-[13:45:22] found          : LoggedIn
-[13:45:22] found          : LoggedOut
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/page.component.ts
-[13:45:22] found          : PageComponent
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Page.stories.ts
-[13:45:22] found          : Template
-[13:45:22] found          : LoggedOut
-[13:45:22] found          : LoggedIn
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/User.ts
-[13:45:22] found          : User
-[13:45:22] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/button.component.ts
-[13:45:22] found          : ButtonComponent
-[13:45:22] -------------------
-[13:45:22] Project statistics 
-[13:45:22] - files      : 160
-[13:45:22] - module     : 1
-[13:45:22] - component  : 4
-[13:45:22] - interface  : 1
-[13:45:22] -------------------
-[13:45:22] Prepare components
-[13:45:22]  AppComponent has a templateUrl, include it
-[13:45:22]  AppComponent has styleUrls, include them
-[13:45:22]  ButtonComponent has styleUrls, include them
-[13:45:22]  HeaderComponent has styleUrls, include them
-[13:45:22]  PageComponent has styleUrls, include them
-[13:45:22] Prepare modules
-[13:45:22] Prepare interfaces
-[13:45:22] Prepare miscellaneous
-[13:45:22] Process documentation coverage report
-[13:45:22] Generating documentation in export format json
-[13:45:22] Documentation generated in ./ in 0.602 seconds
-info @storybook/angular v6.5.7
-info 
-info => Cleaning outputDir: C:\\Users\\KIREKO~1\\AppData\\Local\\Temp\\chromatic--29312-w5NEgkjyiZR5
-info => Loading presets
-info => Compiling manager..
-info => Compiling preview..
-info Addon-docs: using MDX1
-info => Using implicit CSS loaders
-info => Loading angular-cli config for angular >= 13.0.0
-info => Using angular project with "tsConfig:C:\Projects\Learn\storybook\taskbox\.storybook\tsconfig.json"
-WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
-WARN You must use angular builder to have an explicit configuration on the project used in angular.json
-WARN Read more at:
-WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
-WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
-info => Using angular project "taskbox:build" for configuring Storybook
-Browserslist: caniuse-lite is outdated. Please run:
-  npx browserslist@latest --update-db
-  Why you should do it regularly: https://github.com/browserslist/browserslist#browsers-data-updating
-info => Using default Webpack5 setup
-<s> [webpack.Progress] 0% 
-
-<s> [webpack.Progress] 1% setup before run
-<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
-<s> [webpack.Progress] 1% setup before run
-<s> [webpack.Progress] 2% setup run
-<s> [webpack.Progress] 2% setup run
-<s> [webpack.Progress] 4% setup normal module factory
-<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
-<s> [webpack.Progress] 4% setup normal module factory
-<s> [webpack.Progress] 5% setup context module factory
-<s> [webpack.Progress] 5% setup context module factory
-<s> [webpack.Progress] 6% setup before compile
-<s> [webpack.Progress] 6% setup before compile angular-compiler
-<s> [webpack.Progress] 6% setup before compile ProgressPlugin
-<s> [webpack.Progress] 6% setup before compile
-<s> [webpack.Progress] 7% setup compile
-<s> [webpack.Progress] 7% setup compile ExternalsPlugin
-<s> [webpack.Progress] 7% setup compile
-<s> [webpack.Progress] 8% setup compilation
-<s> [webpack.Progress] 8% setup compilation CopyPlugin
-<s> [webpack.Progress] 8% setup compilation angular-compiler
-Another process, with id 30488, is currently running ngcc.
-Waiting up to 250s for it to finish.
-(If you are sure no ngcc process is running then you should delete the lock-file at C:/Projects/Learn/storybook/taskbox/node_modules/.ngcc_lock_file.)
-<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
-<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
-<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
-<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
-<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
-<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
-<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
-<s> [webpack.Progress] 8% setup compilation WorkerPlugin
-<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
-<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
-<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
-<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
-<s> [webpack.Progress] 8% setup compilation
-<s> [webpack.Progress] 9% setup compilation
-<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
-<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
-<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
-<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
-<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
-<s> [webpack.Progress] 9% setup compilation DefinePlugin
-<s> [webpack.Progress] 9% setup compilation ProvidePlugin
-<s> [webpack.Progress] 9% setup compilation ProgressPlugin
-<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
-<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
-<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
-<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
-<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation EntryPlugin
-<s> [webpack.Progress] 9% setup compilation RuntimePlugin
-<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
-<s> [webpack.Progress] 9% setup compilation DataUriPlugin
-<s> [webpack.Progress] 9% setup compilation FileUriPlugin
-<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
-<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
-<s> [webpack.Progress] 9% setup compilation AMDPlugin
-<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
-<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
-<s> [webpack.Progress] 9% setup compilation LoaderPlugin
-<s> [webpack.Progress] 9% setup compilation LoaderPlugin
-<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
-<s> [webpack.Progress] 9% setup compilation APIPlugin
-<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
-<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
-<s> [webpack.Progress] 9% setup compilation ConstPlugin
-<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
-<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
-<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
-<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
-<s> [webpack.Progress] 9% setup compilation ImportPlugin
-<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
-<s> [webpack.Progress] 9% setup compilation SystemPlugin
-<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
-<s> [webpack.Progress] 9% setup compilation URLPlugin
-<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
-<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
-<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
-<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
-<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
-<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
-<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
-<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
-<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
-<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
-<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
-<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
-<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
-<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
-<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
-<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
-<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
-<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
-<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
-<s> [webpack.Progress] 9% setup compilation DefinePlugin
-<s> [webpack.Progress] 9% setup compilation TerserPlugin
-<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
-<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
-<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
-<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
-<s> [webpack.Progress] 9% setup compilation
-<s> [webpack.Progress] 10% building
-<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
-file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:1782
-    throw new Error(`ngcc is already running at process with id ${pid}.
-          ^
-
-Error: ngcc is already running at process with id 30488.
-If you are running multiple builds in parallel then you might try pre-processing your node_modules via the command line ngcc tool before starting the builds.
-(If you are sure no ngcc process is running then you should delete the lock-file at C:/Projects/Learn/storybook/taskbox/node_modules/.ngcc_lock_file.)
-    at SyncLocker.handleExistingLockFile (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:1782:11)
-    at SyncLocker.create (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:1777:12)
-    at SyncLocker.lock (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:1763:10)
-    at SingleProcessExecutorSync.execute (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:1594:19)
-    at mainNgcc (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/chunk-NALI3EFD.js:2103:19)
-    at Module.process (file:///C:/Projects/Learn/storybook/taskbox/node_modules/@angular/compiler-cli/bundles/ngcc/index.js:34:10)
-    at C:\Projects\Learn\storybook\taskbox\node_modules\@storybook\angular\dist\ts3.9\server\framework-preset-angular-ivy.js:64:10
-    at Generator.next (<anonymous>)
-    at fulfilled (C:\Projects\Learn\storybook\taskbox\node_modules\@storybook\angular\dist\ts3.9\server\framework-preset-angular-ivy.js:24:58)
+[13:54:50] No configuration file found, switching to CLI flags.
+[13:54:50] Using tsconfig file : C:\Projects\Learn\storybook\taskbox\tsconfig.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.browserslistrc
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.editorconfig
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.gitignore
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\angular.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\build-storybook.log
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\documentation.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\jest.config.js
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\LICENSE
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\package-lock.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\package.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\README.md
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.app.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\tsconfig.spec.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\main.js
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\preview.js
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.storybook\tsconfig.json
+[13:54:50] Ignoring       : C:\Projects\Learn\storybook\taskbox\.storybook\typings.d.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\setup.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\favicon.ico
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\index.html
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\main.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\polyfills.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\styles.css
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\fileMock.js
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\globalMocks.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\jest-config\__mocks__\styleMock.js
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.css
+[13:54:50] Ignoring       : C:\Projects\Learn\storybook\taskbox\src\app\app.component.spec.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.html
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.component.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\app\app.module.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\.gitkeep
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\environments\environment.prod.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\environments\environment.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\button.css
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Button.stories.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\header.component.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\button.component.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\header.css
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Header.stories.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Introduction.stories.mdx
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\page.component.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\page.css
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\Page.stories.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\User.ts
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.eot
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.ttf
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\assets\icon\percolate.woff
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\code-brackets.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\colors.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\comments.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\direction.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\flow.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\plugin.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\repo.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\src\stories\assets\stackalt.svg
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0590dc6120d98586156def5889ea5d63.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\04ad7faeff192b2984d1fd02cdbd8573.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\07f410cc756de152a50ee2d43591d1d0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\095a74a5a8a2fc77fbc489016e8dedd0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0b5e9df5c78353d35ddca25b11dee23f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0de3374ab41d4593fc2d0a63e306c3ca.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0ece49c1d94718822bd8a60b85b7e216.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\0f071674e02f702e76788b936234e6e1.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\1021d3aa59ea798442f00b196faee8ec.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\15ce3de7b2535d52b91f4f0a33042784.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\163337b720e01a3dd1f627a80b630047.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\18e6d85bac4fb7abfc30a4134468dccf.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\16ddb00ef80a6093fa2a2d306ad72f1a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\199b6f2e0a47d518e07e86da8ace486a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\21d20737f821bcfd064d26ce09e6039d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2ad571f866fea1b08b109adcc91a5794.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\26e139547dae65ddd0b983a9b01dd948.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\23f168b9fbd6095a721d584e78c1cc65.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2ae8af5b0e852edb65c481603f88e272.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2b1bb671ad1fb327ed08fb6f65e16d8b.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2d8dfa0d5887245c62f6e8c5b2d9328d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\2bbebbc24cdfaed38c0320cd0d6ce184.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\30340acbd4c4fa7505b43e3958700174.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\32ff2055bb9378f3bad66c31ca77e738.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\37295287d63c80fe744f8566491e33da.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\36e0707676b7e606b67c9a8e6dab064c.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3a5816efc4959328aa5b0b20fde336f1.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3a610b49dd3df13d025f1fb43a8183ca.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3c0e657e564018a9eaaa066686b6a7c0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3bc67f82a9574df41703c7917590b918.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\3f19826fe1031b72409beb9a8bc509a4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4085f0cd791d9a23ad61a3fa3118b462.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\418ed47955b97d5d600537bde5b65780.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4014c5cdfd08356d9ea201c0c4cd25f3.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\4284e855ed11f8faa327be2af30ce0fc.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\465faeeae05dc71b4ad7fd32df2baa59.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\46e9265ad48353d2887934c68ae1d5bc.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\43904aecda4fa2c2092851b7632f66c1.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\50063e63d1fbdcc680903674b8739591.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\510e186c9a0d9a405a5a95a7d75a05f8.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\515a82319a014afd524beab6121c980c.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\51612f7bd2d2e2d5d636fc9d02ac5081.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\51dabc1099c8131080040d58d535ab0c.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\53762384c22d8e33310f85cff75c6aa2.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5307aea99d1b97b5f262f5646e2b06d4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\53d6d53c34115fd7957b6ce48bef64cc.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\540241d50e464ac85a1551e318a73487.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\58e77762aa52eec3fded8bd9fdece732.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\581ab28d18974e6a830f41e2a98005df.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5a2645bcb7e4f742e7ea0979f5889e99.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5b2dfcdcd87970d0812f4ca28f5f3361.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5bf3899cf2f4652c20a65a422d29c782.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5ccd7ca7be2357346616afe541709c13.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5b688f449e7b22b1955f6148ac20d984.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\5fd0b324f090f49d4c4641b0c53aec4a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\60446e5aed5679484cd963386c06d8c2.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\64d5a4315f90bfdf9ae4b9ed0574c873.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6386307135ca143412379c9637ed731b.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\67a67cc3094bfdb1ab65dbf190078a8a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\690a947edb1ea28e5e21a617dee41386.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6aad39babb5cdc3cee9ef719b21bda78.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ba3b86e648e796b3329b14c83258308.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6d6fcee909e8edaa38f3dfc4be75a1d9.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6ecf4b7596b28279ae6baf3366d500af.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6f73626858bfa34a843d384b73337a6b.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6eefa38fa1383db899605c7c54f6d516.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\6fbf29bb0396a0aed45090c68414c0db.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7129ff979cf96e1b6d8e844dcb2d2f52.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\726bc32e99c9c3c49b4fca2c7a306db7.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\723f42995a628ac7e7cec7dc2b996332.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\73a1ded06eaf08f034a3ed13699faae8.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7406d700b6a778c78053bebe02356143.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7612ed7cf445b157c7e45e4ab5361cba.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\74e89855278d92ca6976dce92e607659.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7629f053045701a8eadefedd68dca0cc.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\76d6a9ea389994cd355ad1b1218ed665.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e1dab7bd6f483eee5b0d8f330980e12.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e110023d426ae6ed33d17f50d48f11f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7e252d35cc8c2a0779ed40f10a90f595.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7f11b3ccca942622f992be0d2a6c94f4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\7f7efdb85964ab6846081209f09de42f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\80afec51381912d37ffdf4f89880f346.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\821cd54a3ce65ec981c9a7b269d7eb79.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\82f3ed2e830ebf999446212dfbd67aff.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\83f4a7313de02c19e71a021c680d1227.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\83ca0d114221df5721c01870d367a2e0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\86032e117a3c4a8e3d8e1bf8a36efa47.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\86fb95d115b1a2a152988bf42054bd3f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\89ee8ced9f953d626aff635071f8574c.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8b7cef43d7b4704244c967705cbbb90a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8bd02cddc76e19a34bd3ced26a493e12.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8db444c36cef39e2bc650164987ed0a4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\90ec94dc679a761022d796a10a67a7d8.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\8e9a50c5282fca8595e8a2e9f1a68995.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\916de5893242b0de0cabeb29c24b8628.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9376821805f3e2b2ada2a792fbde0842.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\959d2a380ea09557842b91904f1be938.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9564c26f39f28de9bb1a170c5ee33e25.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\99e14d411cad5b45294154be5bbd14dd.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9a00f6d392dd963e467db671261a1757.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9aa071aee32a9f8662b7d3819dd2ec78.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9a3944ccc9049ba8c8fb3b348a9aef51.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9be6831791f009c8db6bbc313df657aa.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9d9d0bd76d9265ffe55b584f7ed92fe2.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\9ff1767fba3094ebb3ea2c32d71f2936.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a276ccd5af8aadc676f2f3843f5ea286.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a4d392b6442c2bdb95981cb5fd117d10.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a5b22bbf226f118400c34bd11e0fc1ad.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a5f09bf94e7093622ef1080aac175f8a.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a6c0ab600aea07867afd176d8045b2a4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a72b3833e167edf2f135e2d92f7efcb8.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a763a7fdb7d38a9d5d5ab7635e94231f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a8569d70fab9034a79a711ca0e346c00.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a8e4890339fd7d21b6fadb339613bb68.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a8ea44b08f490157d04dcc5d532b65c4.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ab8223190971d232b87f18712c6efef9.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a09b89f8d1c4d387c2c429ef899207de.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ac93e32cbda166186f379bf639cc0fb6.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\a1b3fff1f593c5426a6ccbd17b9bf4cd.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\afe38d4faf7e3f029ea839090885773d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ae1fb2e5a45214df6bbbb617a47265e3.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b168d989569a9947a7fc72b0e5381061.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b40645d06127ecc175347f53cd314311.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bb078993008f8d58d1b37456bbf1ca72.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\b469758664bb06c409ff02e22cce95ea.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdfd7b4810b6cb40cf299461d9063d79.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\bdd65ad5ceb5bf534a4d8eb707e17f34.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c04bf888e6abda64bf114bf6ab7d697d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c285712637bcf79f023bb94e2dbac8ab.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\c523c8b3acebec3482f02c8c67a6a433.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ca5f2d911f718cff45c25bf90cebdcb9.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ca7d4aff3b9a518406a80f34fa4d7721.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cad59d61730027a12fdc3f608ed66b96.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cec0666cfd5f66bee2b0a10a0c0c6acd.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\cb0e15a1c37a2b21b1f4c3a0cc22e51e.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d30c793081be0d1a6f024eae7a6f28a0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d3d455c47b603e5cd2487402b34ac906.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d7fac9f1b68696bd962b97c1c93a4dfb.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d49b309af33aa961ec4f9e8e0569c078.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db326027f99e508513978c826e36bf0b.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\d83877988c2f383bc7f08f30d964195e.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\de8b41d37ebfe63f4f28e4f04e1628ef.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\db7eb6ab23500049320109f5b7eab0dd.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e1bddcbbf8406e86ed17018970f94b7f.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e22ddfdb1fa265f13479773e5e25b950.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e272bbd0600868c90dcee67ff570c9a6.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e38749e8fa3c0a4a3990cbd94aec82e0.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e4f888ecb6c16deede7d1bcda8206af1.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e50e14b908fea39ebd231e10b84087aa.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e63ef3d3ed1ad27722ef0ce826cb3634.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\eb177d57b0e8be3477a4f5850b15d940.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\e4d33e74e6fee55acbf8ad4cb7584906.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ed2eb2359e8c014871fa73d1ba8b8f85.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f03915dd0510b8b04b38ba11e16a6940.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f109a997227f899bd6b1c5c8bb2b8aa7.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f3af3ed4627df263bef17622bfb63a75.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f654d009bc2903df1d22a5ea774baabc.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6943c2da277027c1430c42992b7a107.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f6d324db3a1821022062a1c685fa1194.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f86c919bcf1d15ab1521b0966fa59a4e.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f982a87d9ad10497f02614069f39344e.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f980e59d1a0c771affcd2089bba89c21.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\f9d376faca0294a900cfad4a26fe044d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fa340cffdb7404a4406367cb816f6518.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fc9739c99052314e38dbe770dbb05e2d.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fa7e0f815e0ef9cd1aaa5a5d2f169a66.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\ffd8aa3af06da315340897e13ebec8ab.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\babel-webpack\fdad77adaca505fe4bd2a76f92c98ced.json
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\angular-webpack\226c22752caaa0e336b79ab82c16815c9aa0e171\0.pack
+[13:54:50] Including      : C:\Projects\Learn\storybook\taskbox\.angular\cache\13.3.7\angular-webpack\226c22752caaa0e336b79ab82c16815c9aa0e171\index.pack
+[13:54:50] Searching package.json file
+[13:54:50] package.json file found
+[13:54:50] Processing package.json dependencies
+[13:54:50] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[13:54:50] README.md file found
+[13:54:50] Error during C:\Projects\Learn\storybook\taskbox\CHANGELOG read
+[13:54:50] Continuing without CHANGELOG.md file
+[13:54:50] Error during C:\Projects\Learn\storybook\taskbox\CONTRIBUTING read
+[13:54:50] Continuing without CONTRIBUTING.md file
+[13:54:50] LICENSE.md file found
+[13:54:50] Error during C:\Projects\Learn\storybook\taskbox\TODO read
+[13:54:50] Continuing without TODO.md file
+[13:54:50] Get dependencies data
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/jest-config/setup.ts
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/main.ts
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/polyfills.ts
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/jest-config/__mocks__/globalMocks.ts
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/app/app.component.ts
+[13:54:50] found          : AppComponent
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/app/app.module.ts
+[13:54:50] found          : AppModule
+[13:54:50]                : - imports:
+[13:54:50]                : 	- BrowserModule
+[13:54:50]                : - declarations:
+[13:54:50]                : 	- AppComponent
+[13:54:50]                : - bootstrap:
+[13:54:50]                : 	- AppComponent
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/environments/environment.prod.ts
+[13:54:50] found          : environment
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/environments/environment.ts
+[13:54:50] found          : environment
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Button.stories.ts
+[13:54:50] found          : Template
+[13:54:50] found          : Primary
+[13:54:50] found          : Secondary
+[13:54:50] found          : Large
+[13:54:50] found          : Small
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/header.component.ts
+[13:54:50] found          : HeaderComponent
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/button.component.ts
+[13:54:50] found          : ButtonComponent
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Header.stories.ts
+[13:54:50] found          : Template
+[13:54:50] found          : LoggedIn
+[13:54:50] found          : LoggedOut
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/page.component.ts
+[13:54:50] found          : PageComponent
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/Page.stories.ts
+[13:54:50] found          : Template
+[13:54:50] found          : LoggedOut
+[13:54:50] found          : LoggedIn
+[13:54:50] parsing        : C:/Projects/Learn/storybook/taskbox/src/stories/User.ts
+[13:54:50] found          : User
+[13:54:50] -------------------
+[13:54:50] Project statistics 
+[13:54:50] - files      : 234
+[13:54:50] - module     : 1
+[13:54:50] - component  : 4
+[13:54:50] - interface  : 1
+[13:54:50] -------------------
+[13:54:50] Prepare components
+[13:54:50]  AppComponent has a templateUrl, include it
+[13:54:50]  AppComponent has styleUrls, include them
+[13:54:50]  ButtonComponent has styleUrls, include them
+[13:54:50]  HeaderComponent has styleUrls, include them
+[13:54:50]  PageComponent has styleUrls, include them
+[13:54:50] Prepare modules
+[13:54:50] Prepare interfaces
+[13:54:50] Prepare miscellaneous
+[13:54:50] Process documentation coverage report
+[13:54:50] Generating documentation in export format json
+[13:54:50] Documentation generated in ./ in 0.552 seconds
