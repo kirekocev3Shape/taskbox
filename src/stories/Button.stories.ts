@@ -23,6 +23,12 @@ Primary.args = {
   primary: true,
   label: 'Button',
 };
+Primary.parameters = {
+  design: {
+    type: "figma",
+    url: "https://www.figma.com/file/LKQ4FJ4bTnCSjedbRpk931/Sample-File",
+  },
+}
 
 export const Secondary = Template.bind({});
 Secondary.args = {
